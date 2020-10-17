@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-<!--
-**dzienisz/dzienisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on new fintech in Vodeno
-- 🌱 I’m currently learning TypeScript
+- 🔭 I’m currently working on [aion bank](https://aion.be/invite/52e3dd85-3cf0-4608-b0e6-4cd753de0aae) fintech in [Vodeno](https://www.vodeno.com/)
+- 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/)
 - 💬 Ask me about Vodeno
-- 📫 How to reach me: kamil.dzieniszewski@vodeno.com
--->
+- 📹 [Interview about Hackathons [PL]](https://www.youtube.com/watch?v=M9SeBKc2xZk)
