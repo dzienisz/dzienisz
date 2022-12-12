@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Looking for a new oportunity! https://www.linkedin.com/in/dzieniszewski/
+🏋️‍♀️ LinkedIn: https://www.linkedin.com/in/dzieniszewski/
 
 📹 [Interview about Hackathons [PL]](https://www.youtube.com/watch?v=M9SeBKc2xZk)
 
